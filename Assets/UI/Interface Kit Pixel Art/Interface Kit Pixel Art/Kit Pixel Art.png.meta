@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: b6a036a22eef9084baf3192dd11465a5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kit Pixel Art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 110
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94690438d4255384998958a231f02a9b
+      internalID: -1377191906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 573
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ff9fd36ae8fa04c9212666f30e1065
+      internalID: -1835503408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 301
+        width: 108
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25191044a11bbe34abd85f26646b2bbe
+      internalID: -1910421244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 406
+        width: 286
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2ca5bc745447441a41f8b249318759
+      internalID: -210806481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_4
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 462
+        width: 110
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7514a89e65d734f80631ecaf1de35f
+      internalID: -24379361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_5
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 574
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a6887796f2902499fc969fdb09f4ba
+      internalID: 1220256181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_6
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 187
+        width: 409
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe78c45bc0366e3488b4431681f0002c
+      internalID: 698961271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 554
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea813c9ec3e4b14fac9120fca0314f8
+      internalID: 758168456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_8
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 555
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b68dcd7c9dcd1a4f8fc98c78c478718
+      internalID: -160228233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 557
+        width: 120
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71707fcc53d885242bf480d45363f244
+      internalID: 187074577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 544
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509789da0c589e4d87d5821d7a65c9b
+      internalID: 1178687098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 538
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b946ec9b9e1b02c4aaf2f6df059b55c8
+      internalID: 267108564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 536
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed73999976ceab4c81b29cce6598d67
+      internalID: -1758179188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 538
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462e6a6a11ffe8b4ebe2c7047d4107cd
+      internalID: 311315236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_14
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 538
+        width: 120
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2978d15317482704699d750a76d063e6
+      internalID: -1103965870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 545
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb4573fe50ae704da12ea5e815942a0
+      internalID: -1275394995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_16
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 539
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6060f46c0dde249ae6f3326269a99d
+      internalID: -2025461846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_17
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 537
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc2f62658330b499167a2da578c465
+      internalID: 692567472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_18
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 536
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3372d78834308d14483706dc63b23411
+      internalID: -42682634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_19
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 544
+        width: 120
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe77ca067f7a1d499c04097c777ceef
+      internalID: 1058170914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 477
+        width: 14
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8b24bbbc9106448d1615172e062f8
+      internalID: 1349743050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_21
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 526
+        width: 120
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1374dcecd64f24cb6beff2932c44ef
+      internalID: -747741979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_22
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 478
+        width: 14
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f6b9b2ac79ecb43befd31efdb05635
+      internalID: 459054597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_23
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 531
+        width: 135
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba8e6b0138c06d4e86893a55e198d58
+      internalID: 773230074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 458
+        width: 193
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8998d3239f69c454583e7a431650364c
+      internalID: 691206601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_25
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 515
+        width: 134
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a177b8d458ce4d48b81d5c80b4c1b00
+      internalID: 1216222771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_26
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 459
+        width: 193
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6a20b0ca41c24e958adcb96f90e4c
+      internalID: -1772425257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 469
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65af84539dcbbfe42aa8da0a221f4780
+      internalID: 1559663879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_28
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 470
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37e7329091d51f4188fc1941284f75d
+      internalID: -1745359461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 151
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49819b3308705e24ea0fb554356af24e
+      internalID: -1987456895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_30
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 295
+        width: 193
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21ca927201c1be43b101837f0182775
+      internalID: -198000695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 81
+        width: 348
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe5dd8a27512a4fae400d5376a7fa3
+      internalID: -1864263108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_32
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 331
+        width: 151
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ef9bebda7b7c4fb28aa3e7cbc55e9
+      internalID: 513860663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_33
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 296
+        width: 193
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba121373cc7f8743818055873bf77d1
+      internalID: -107122772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 143
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3744794ce72c8e2418ec89813714c494
+      internalID: -1892984457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 154
+        width: 143
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc729cde7bbcf7488be8a8642287260
+      internalID: 643174719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_36
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 194
+        width: 143
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7c2814dc767c64996f81e3add024e9
+      internalID: -444870302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_37
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 155
+        width: 143
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eececdc5778becc47a4ba6a7077adf17
+      internalID: 1296258866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_38
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 231
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268c56f650aebf4590f41647a54aacb
+      internalID: 833350884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 78
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25ef8bca0e1f904c92b26eba4955331
+      internalID: -1369395083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_40
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 76
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacfdf0419f3bda448d395fd4a4f5ef4
+      internalID: -1883664098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_41
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1
+        width: 231
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038e78f2562a0744ca50543eeb4295aa
+      internalID: 1978714919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_42
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 79
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daab65b84fa5a9418419d96386721aa
+      internalID: 1494097914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_43
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 79
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50331980433b842bbac1581ff39d21
+      internalID: 915909578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 32
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd828e606c2fd345a0ace1e88706bb5
+      internalID: -1175972726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_45
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 33
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b8007f8ab96e84786ed1b1f2148cba
+      internalID: -2058169650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_46
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 3
+        width: 315
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2685da97e642743b7b1c4e28f8b183
+      internalID: 1983356195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kit Pixel Art_47
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 3
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725556c53243d0d49b319cd6748716a9
+      internalID: -2134808310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kit Pixel Art_0: -1377191906
+      Kit Pixel Art_1: -1835503408
+      Kit Pixel Art_10: 1178687098
+      Kit Pixel Art_11: 267108564
+      Kit Pixel Art_12: -1758179188
+      Kit Pixel Art_13: 311315236
+      Kit Pixel Art_14: -1103965870
+      Kit Pixel Art_15: -1275394995
+      Kit Pixel Art_16: -2025461846
+      Kit Pixel Art_17: 692567472
+      Kit Pixel Art_18: -42682634
+      Kit Pixel Art_19: 1058170914
+      Kit Pixel Art_2: -1910421244
+      Kit Pixel Art_20: 1349743050
+      Kit Pixel Art_21: -747741979
+      Kit Pixel Art_22: 459054597
+      Kit Pixel Art_23: 773230074
+      Kit Pixel Art_24: 691206601
+      Kit Pixel Art_25: 1216222771
+      Kit Pixel Art_26: -1772425257
+      Kit Pixel Art_27: 1559663879
+      Kit Pixel Art_28: -1745359461
+      Kit Pixel Art_29: -1987456895
+      Kit Pixel Art_3: -210806481
+      Kit Pixel Art_30: -198000695
+      Kit Pixel Art_31: -1864263108
+      Kit Pixel Art_32: 513860663
+      Kit Pixel Art_33: -107122772
+      Kit Pixel Art_34: -1892984457
+      Kit Pixel Art_35: 643174719
+      Kit Pixel Art_36: -444870302
+      Kit Pixel Art_37: 1296258866
+      Kit Pixel Art_38: 833350884
+      Kit Pixel Art_39: -1369395083
+      Kit Pixel Art_4: -24379361
+      Kit Pixel Art_40: -1883664098
+      Kit Pixel Art_41: 1978714919
+      Kit Pixel Art_42: 1494097914
+      Kit Pixel Art_43: 915909578
+      Kit Pixel Art_44: -1175972726
+      Kit Pixel Art_45: -2058169650
+      Kit Pixel Art_46: 1983356195
+      Kit Pixel Art_47: -2134808310
+      Kit Pixel Art_5: 1220256181
+      Kit Pixel Art_6: 698961271
+      Kit Pixel Art_7: 758168456
+      Kit Pixel Art_8: -160228233
+      Kit Pixel Art_9: 187074577
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

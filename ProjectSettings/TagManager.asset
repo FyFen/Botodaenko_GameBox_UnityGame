@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - chat
+  - up
+  - down
+  - left
+  - right
+  - activeskill
+  - main_base
+  - light
+  - ok
+  - play
+  - pause
+  - attack
+  - logic
+  - destroer
+  - outer
+  - atk_1
+  - atk_2
+  - atk_3
+  - atk_4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 875912879
+    locked: 0
+  - name: Player
+    uniqueID: 2454986449
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 4175323345
+    locked: 0
+  - name: Environment
+    uniqueID: 1849732413
+    locked: 0
+  - name: UI
+    uniqueID: 2571993649
+    locked: 0
